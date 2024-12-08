@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  test-charts:
+  - apiVersion: v2
+    created: "2024-12-08T15:47:31.917159+09:00"
+    digest: 4525434b54600ac289281bf50f6a7f4d18dc228e652fb46abe768f6692d085a6
+    name: test-charts
+    urls:
+    - test-charts-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-12-08T15:47:31.916367+09:00"
